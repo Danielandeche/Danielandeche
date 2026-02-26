@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12,18,24&height=200&section=header&text=Daniel%20Andeche&fontSize=50&fontAlignY=30&desc=Founder%20of%20Binarytool.site%20%7C%20Trader%20%7C%20Developer&descAlignY=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=200&section=header&text=Daniel%20Andeche&fontSize=50&fontColor=ffffff&desc=Founder%20of%20Binarytool.site%20|%20Trader%20|%20Developer&descAlignY=55&animation=twinkling" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=9D4EFF&center=true&vCenter=true&width=500&lines=Forex+%26+Binary+Trader;Deriv+Third-Party+Expert;Software+Engineering+Student;Moringa+School+%7C+B.Ed+Arts;Building+Binarytool.site" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Forex+%26+Binary+Trader;Deriv+Third-Party+Expert;Software+Engineering+Student;Moringa+School+%7C+B.Ed+Arts;Building+Binarytool.site" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 Who Am I?
+### 🧑‍💻 About Me
 
 <table>
   <tr>
@@ -52,16 +52,16 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielandeche&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielandeche&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielandeche&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielandeche&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielandeche&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Danielandeche&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielandeche&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Danielandeche&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="50%" />
 </div>
 
 ---
@@ -84,22 +84,22 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.binarytool.site/"><img src="https://img.shields.io/badge/Binarytool.site-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.binarytool.site/"><img src="https://img.shields.io/badge/Binarytool.site-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://wa.me/message/JTULQ4H5W466J1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://instagram.com/daniel_andeche"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://facebook.com/profile.php?id=100080840726858"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:daniel@binarytool.site"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌟 Random Trader's Quote
+### 🌟 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -111,5 +111,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12,18,24&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=120&section=footer" />
 </div>
